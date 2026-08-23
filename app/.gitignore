@@ -1,1 +1,27 @@
+# Gradle y Build outputs
+*.apk
+*.aar
+*.keystore
+bin/
+build/
 /build
+*/build
+app/build/
+.gradle/
+build-cache/
+
+# Android Studio / IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+captures/
+
+# Claves de configuración local (p. ej. SDK path)
+local.properties
+
+# Logs y SO
+*.log
+.DS_Store
+Thumbs.db
