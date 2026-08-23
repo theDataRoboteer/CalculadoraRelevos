@@ -1,4 +1,4 @@
-# Calc Relevos - Calculadora de Relevos
+# Calculadora de Relevos
 
 Una aplicación Android moderna diseñada para entrenadores y atletas de triatlón, que permite gestionar tiempos de relevos y optimizar la distribución de equipos.
 
